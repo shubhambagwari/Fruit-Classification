@@ -1,6 +1,6 @@
 # Fruit-Classification
-Platform: Jupyter Notebook
-Dataset: Uploaded in Repository 
+1) Platform: Jupyter Notebook
+2) Dataset: Uploaded in Repository 
 
 # Libraries used
 1) Numpy
